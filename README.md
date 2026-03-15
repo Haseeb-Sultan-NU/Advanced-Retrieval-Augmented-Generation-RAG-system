@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG in the Wild — Case Study Assignment
 
 This assignment is framed as a **case study**: you work with a real-world-style corpus (web search results across multiple domains) and implement four advanced RAG strategies—RAG Fusion, HyDE, CRAG, and Graph RAG—to see which best handles noisy retrieval and varied question types. See **ASSIGNMENT.md** for the full scenario and requirements.
@@ -74,3 +75,7 @@ Open the URL shown (e.g. http://localhost:3000). You need a backend that loads t
 ## Folder structure
 
 Do not change the folder structure. Required layout and the full case-study description are in `ASSIGNMENT.md`.
+=======
+# Advanced-Retrieval-Augmented-Generation-RAG-system
+Building an advanced Retrieval-Augmented Generation (RAG) system capable of answering diverse user questions using a pre-crawled dataset of web pages .
+>>>>>>> 640b3123f28ba21bf4cf5730d04db2f48d267c08
